@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_2._1</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3"/>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.0-preview.3.24172.9"/>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0"/>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0"/>
+    <PackageReference Include="System.Windows.Extensions" Version="8.0.0"/>
+  </ItemGroup>
+</Project>
